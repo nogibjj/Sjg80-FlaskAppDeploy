@@ -14,6 +14,8 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 5000
 
+ENV NAME envrinm
+
 # Run app.py when the container launches
 
 CMD ["python", "app.py", "--host=0.0.0.0", "--port=5000"]
