@@ -5,6 +5,8 @@ Auto Scaling Flask App Using Azure Wep App
 The **Height vs Age Predictor Microservice** is a Flask-based web application that predicts heights based on ages. It uses a machine learning model trained on provided age and height data to generate predictions and visualize the relationship between age and height.
 
 <img width="975" alt="image" src="https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/105658ac-673b-4f1d-99c8-82e162397c29">
+<img width="757" alt="image" src="https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/b6faf945-77d1-43f2-9b59-a5af5c138e3c">
+
 
 ## Dependencies
 
@@ -48,7 +50,7 @@ The **Height vs Age Predictor Microservice** is a Flask-based web application th
 - Evaluate the microservice's scalability under increased user load to ensure seamless performance in production environments.
 - Explore deployment strategies like containerization using Docker to facilitate easy deployment and scalability of the microservice in various environments.
 
-  ![image](https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/f2dd6359-2200-4e10-a77f-a5d29d44c33f)
+![image](https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/f2dd6359-2200-4e10-a77f-a5d29d44c33f)
 
 ![image](https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/77756310-b17e-4f64-9c75-169b6c15da0d)
 
