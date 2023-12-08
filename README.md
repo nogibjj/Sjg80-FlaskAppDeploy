@@ -55,3 +55,11 @@ The **Height vs Age Predictor Microservice** is a Flask-based web application th
 
 ![image](https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/77756310-b17e-4f64-9c75-169b6c15da0d)
 
+**References**
+https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-03?tabs=azure-portal
+
+https://www.jamessturtevant.com/posts/Deploying-Python-Website-To-Azure-Web-with-Docker/
+
+https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app?tabs=web-app-flask
+
+https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel#generate-deployment-credentials
