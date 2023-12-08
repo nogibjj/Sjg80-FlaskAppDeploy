@@ -51,7 +51,6 @@ The **Height vs Age Predictor Microservice** is a Flask-based web application th
 **Scalability and Deployment:**
 
 - Evaluate the microservice's scalability under increased user load to ensure seamless performance in production environments.
-- Explore deployment strategies like containerization using Docker to facilitate easy deployment and scalability of the microservice in various environments.
 
 ![image](https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/77756310-b17e-4f64-9c75-169b6c15da0d)
 
