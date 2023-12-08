@@ -1,5 +1,7 @@
 # Auto Scaling Flask App Using Azure Wep App
 
+Video Tutorial: https://youtu.be/ruIbk7N_qEc
+
 # Height vs Age Predictor Microservice
 
 The **Height vs Age Predictor Microservice** is a Flask-based web application that predicts heights based on ages. It uses a machine learning model trained on provided age and height data to generate predictions and visualize the relationship between age and height.
