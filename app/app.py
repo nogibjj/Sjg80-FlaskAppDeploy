@@ -72,4 +72,4 @@ def floats_string_to_np_arr(floats_str):
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5017)
+    app.run(host="0.0.0.0", port=5000)
