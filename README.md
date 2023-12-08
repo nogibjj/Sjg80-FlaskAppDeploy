@@ -34,6 +34,8 @@ The **Height vs Age Predictor Microservice** is a Flask-based web application th
 1. Enter comma-separated ages into the input field.
 2. Submit the form to receive a visualization of the predicted heights based on the provided ages.
 
+<img width="519" alt="image" src="https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/b1e68e05-b7e4-4217-a977-79cd7a449b7e">
+
 ## Recommendations to Management
 
 **Actionable Insights:**
