@@ -24,7 +24,7 @@ The **Height vs Age Predictor Microservice** is a Flask-based web application th
 1. Ensure Python 3.10 is installed on your system.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 3. Run the Flask app by executing `python app.py` from the project root.
-4. Access the app in your browser at `http://localhost:5000`.
+4. Access the app in your browser at [`http://localhost:5000`.](https://flaskappregression.azurewebsites.net/)
 
 <img width="1451" alt="image" src="https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/5e45d027-ebc9-4296-a3a3-7117cbb88593">
 <img width="757" alt="image" src="https://github.com/nogibjj/Sjg80-FlaskAppDeploy/assets/142270941/b6faf945-77d1-43f2-9b59-a5af5c138e3c">
